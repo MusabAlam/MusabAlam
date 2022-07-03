@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MusabAlam
+- 👀 I’m interested in learning Software Development processes, coding, Data Science, Machine learning, AI, UX Design..
+- 🌱 I’m currently learning UX Design, Machine learning and doing a Bachelor degree in Software Engineering..
+- 📫 You can reach me through my gmail or linkedin..
+- Hope you have a good day..
